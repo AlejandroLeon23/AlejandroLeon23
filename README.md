@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AlejandroLeon23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Alejandro
+- 👀 I’m interested in learning react and back-end programming
+- 🌱 I’m currently learning react and backend fundamentals
+- 💞️ I’m looking to collaborate on anything that can help me with any of those.
+- 📫 How to reach me lic.alejandroleonlomeli@gmail.com
 
 <!---
 AlejandroLeon23/AlejandroLeon23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
